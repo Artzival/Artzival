@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Artzival
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning basic web development
+- 🌱 I’m currently getting my bachelor's in computer science
 - 💞️ I’m looking to collaborate on simple projects
-- 📫 How to reach me: artzival@gmail.com
+- 📫 How to reach me: realandrewjwilson@gmail.com
 
 <!---
 Artzival/Artzival is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
